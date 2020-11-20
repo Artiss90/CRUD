@@ -161,7 +161,7 @@
       "id": 24
     },
     {
-      "title": "Overlords 2",
+      "title": "Two tower",
       "author": "Artiss90",
       "genres": [
         "JS"
@@ -170,12 +170,12 @@
       "id": 25
     },
     {
-      "title": "Overlords 3",
+      "title": "Lord of ring",
       "author": "Artiss90",
       "genres": [
         "JS"
       ],
-      "rating": 9,
+      "rating": 8,
       "id": 26
     }
   ]
